@@ -82,7 +82,6 @@ body {
 }
 
 
-
 .form__box label {
     position: absolute;
     color: #999;
@@ -120,4 +119,13 @@ body {
 .form__signup .btn {
     display: block;
     margin: 2rem auto;
+}
+
+.form__box .form-message {
+    position: absolute;
+    right: 0;
+    top: 0;
+    transform: translateY(-2rem);
+    color: #666;
+
 }
